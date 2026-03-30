@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Projukta Chatterjee | Reg No: 24MIP10085
+# Author: Hanchate Sanjana| Reg No: 24MEI10004
 
 PACKAGE="git"
 
