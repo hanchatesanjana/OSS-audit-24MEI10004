@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Projukta Chatterjee | Reg No: 24MIP10085
+# Author: Hanchate Sanjana | Reg No: 24MEI10004
 
 # Input arguments
 LOGFILE=$1
