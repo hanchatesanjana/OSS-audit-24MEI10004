@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Projukta Chatterjee | Reg No: 24MIP10085
+# Author: Hanchate Sanjana | Reg No: 24MEI10004
 
 # List of directories to check
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
