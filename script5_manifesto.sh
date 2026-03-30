@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Projukta Chatterjee | Reg No: 24MIP10085
+# Author: Hanchate Sanjana | Reg No: 24MEI10004
 
 echo "======================================="
 echo " Open Source Manifesto Generator"
@@ -19,7 +19,7 @@ OUTPUT="manifesto_$(whoami).txt"
 # Writing manifesto
 echo "---------------------------------------" > $OUTPUT
 echo "Open Source Manifesto" >> $OUTPUT
-echo "By: Projukta Chatterjee" >> $OUTPUT
+echo "By: Hanchate Sanjana" >> $OUTPUT
 echo "Date: $DATE" >> $OUTPUT
 echo "" >> $OUTPUT
 
