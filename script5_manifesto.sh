@@ -23,11 +23,13 @@ echo "By: Hanchate Sanjana" >> $OUTPUT
 echo "Date: $DATE" >> $OUTPUT
 echo "" >> $OUTPUT
 
-echo "I believe in the power of open source. Using tools like $TOOL every day shows how collaboration can build something meaningful. To me, freedom means $FREEDOM, and it drives innovation in technology." >> $OUTPUT
+echo "I believe in the power of open source. Using tools like $TOOL every day shows how collaboration can build something meaningful. To me, freedom means                                                              
+$FREEDOM, and it drives innovation in technology." >> $OUTPUT
 
 echo "" >> $OUTPUT
 
-echo "If given the opportunity, I would build $BUILD and share it openly with the world so that others can learn, improve, and benefit from it. Open source is not just code — it is a philosophy of sharing knowledge and growing together." >> $OUTPUT
+echo "If given the opportunity, I would build $BUILD and share it openly with the world so that others can learn, improve,
+and benefit from it. Open source is not just code — it is a philosophy of sharing knowledge and growing together." >> $OUTPUT
 
 echo "---------------------------------------" >> $OUTPUT
 
