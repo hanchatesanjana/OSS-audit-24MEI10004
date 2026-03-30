@@ -1,0 +1,9 @@
+---------------------------------------
+Open Source Manifesto
+By: Projukta Chatterjee
+Date: 30 March 2026
+
+I believe in the power of open source. Using tools like Git every day shows how collaboration can build something meaningful. To me, freedom means Freedom, and it drives innovation in technology.
+
+If given the opportunity, I would build AI tool and share it openly with the world so that others can learn, improve, and benefit from it. Open source is not just code — it is a philosophy of sharing knowledge and growing together.
+---------------------------------------
